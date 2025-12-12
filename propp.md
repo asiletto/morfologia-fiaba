@@ -8,6 +8,21 @@ Propp analizzò un gran numero di fiabe della tradizione cercando di dividerle i
 
 Gli elementi unificanti vengono identificati non tanto a livello di contenuti, quanto in termini di **azioni e funzioni**.
 
+### Principio Fondamentale
+
+**Nell'analisi di Propp è più importante quello che fa il personaggio piuttosto di chi sia il personaggio.**
+
+Se l'eroe è una fanciulla, un principe o un orso è indifferente: a caratterizzare lo svolgimento della trama è l'azione che l'eroe compie attraverso le sue caratteristiche fisiche.
+
+## Schema Generale della Fiaba
+
+Propp identificò uno schema generale che struttura la narrazione fiabesca in quattro fasi:
+
+1. **Equilibrio introduttivo** (situazione iniziale)
+2. **Rottura dell'equilibrio iniziale** (esordio)
+3. **Azioni dell'eroe** (peripezie)
+4. **Ristabilimento dell'equilibrio** (scioglimento)
+
 ## Le 31 Funzioni
 
 Le **funzioni** sono punti cardine all'interno della narrazione e sono quelle unità che mandano avanti l'intero racconto. Esse succedono alla **situazione iniziale**, che ha il compito di introdurre l'ambiente della narrazione.
@@ -16,70 +31,72 @@ Le **funzioni** sono punti cardine all'interno della narrazione e sono quelle un
 
 1. **Allontanamento**: L'eroe o un membro della famiglia lascia la sicurezza dell'ambiente iniziale. Questo evento causa tensione nella storia che quindi ha veramente inizio. Può essere il momento in cui viene presentato l'eroe, spesso ritratto come una persona normale.
 
-2. **Divieto**: All'eroe viene posto un divieto/viene allarmato su quello che potrebbe accadere da una sua azione.
+2. **Divieto**: Alla vittima viene imposta una sorta di "interdizione" o comunque gli viene sconsigliato di agire in un certo modo (ad esempio, gli viene proibito di andare in un determinato luogo o di compiere una precisa azione).
 
-3. **Infrazione**: Il cattivo (o antagonista) entra nella storia (poiché un divieto è stato infranto). Non necessariamente il cattivo ha un confronto con l'eroe.
+3. **Infrazione**: Quando la vittima infrange il divieto imposto, l'antagonista entra nella storia. La decisione di violare il divieto si rivela essere generalmente pessima, sebbene non implichi un confronto diretto tra l'eroe e l'antagonista: infatti potrebbe anche rimanere una presenza che lo osserva; oppure potrebbe decidere di non attaccare lui, ma la sua famiglia, momentaneamente lasciata sola.
 
-4. **Investigazione**: Il cattivo cerca di raccogliere informazioni sull'eroe (spesso sotto mentite spoglie) magari parlando con un membro della famiglia o rubando qualche cosa.
+4. **Ricognizione** (o Investigazione): L'antagonista, spesso mascherato, cerca attivamente di raccogliere determinate informazioni sull'eroe (relative a qualcosa di valore di cui vuole entrare in possesso), oppure tenta di catturare qualcuno che ritiene utile ai suoi scopi. Per raggiungere il suo obiettivo, l'antagonista potrebbe parlare con un membro della famiglia che finirà per fornirgli, inconsapevolmente ed ingenuamente, le informazioni che sta cercando; oppure potrebbe provare a parlare direttamente con l'eroe, forse già consapevole del fatto che in lui vi sia qualcosa di speciale.
 
-5. **Delazione**: Il cattivo riceve delle informazioni sull'eroe o sulla vittima. Altre informazioni possono inoltre essere acquisite, come la posizione di un tesoro o una mappa.
+5. **Ottenimento** (o Delazione): Le ricerche dell'antagonista vanno a buon fine, ed egli ottiene delle informazioni utili sull'eroe o sulla vittima. Altre informazioni possono inoltre essere acquisite, come la posizione di un tesoro, una mappa o altri tipi di indicazioni materiali.
 
-6. **Tranello**: Il cattivo tenta di ingannare la vittima cercando di rapirla o di rubarle qualcosa. Spesso usa le informazioni accumulate per ingannare l'eroe o la vittima con un travestimento, usando la persuasione oppure a volte la magia.
+6. **Raggiro** (o Tranello): L'antagonista, sempre sotto mentite spoglie, cerca di ottenere la fiducia della vittima designata, ingannandola per catturarla o per prendere possesso dei suoi averi. Questa fase potrebbe includere la cattura della vittima, merce di scambio per ottenere qualcosa dall'eroe; oppure l'antagonista potrebbe convincere i suoi perseguitati che egli è in realtà loro amico, in modo da ottenere una collaborazione volontaria.
 
-7. **Connivenza**: La vittima viene ingannata e finisce con l'aiutare il cattivo senza saperlo. Il tranello del cattivo sortisce l'effetto desiderato e la vittima o l'eroe sono suoi burattini. L'aiuto che possono dare al cattivo varia dal fornire qualcosa di importante (ad esempio una mappa o un oggetto magico) allo scontrarsi con personaggi buoni.
+7. **Connivenza**: A questo punto, l'inganno perpetrato ai danni della vittima è andato a buon fine e quest'ultima e/o l'eroe è ora impegnata/o ad aiutare il proprio nemico. Il fine potrebbe essere quello di procurare all'antagonista qualcosa che egli desidera (magari una mappa o un'arma magica) oppure di lottare attivamente contro i buoni (l'antagonista potrebbe aver persuaso l'eroe che le persone in questione siano in realtà malvagie).
 
-8. **Danneggiamento o Mancanza**: Il cattivo causa un danno/fa del male ad un membro della famiglia (rapimento, saccheggio, incantesimo, omicidio, imprigionamento, matrimonio forzato ecc.) in alternativa, ad un personaggio della famiglia manca qualcosa o desidera qualcosa. Queste due opzioni possono apparire insieme o alternativamente nella storia.
+8. **Danneggiamento o Mancanza**: L'antagonista danneggia/ferisce un membro della famiglia dell'eroe (per esempio: lo rapisce, gli sottrae un agente magico importante, rovina il raccolto o attua altre forme di saccheggio, causa una scomparsa, espelle qualcuno, lancia un incantesimo su qualcun altro, sostituisce un bambino, commette un omicidio, imprigiona/rapisce qualcuno, minaccia di forzare un'unione coniugale, provoca tormenti notturni). In alternativa, un membro della famiglia si rende conto che gli manca qualcosa, che ha un desiderio da realizzare (ad esempio, ottenere una pozione magica). Queste due opzioni possono apparire insieme o alternativamente nella storia.
 
-9. **Mediazione**: La funzione 8 viene resa nota. L'eroe può trovare la sua famiglia in uno stato di agitazione oppure la comunità devastata e afflitta.
+9. **Mediazione**: Il danno o la mancanza si palesano: l'eroe sente una richiesta di aiuto oppure viene avvisato; in alternativa, se vittimizzato, viene liberato dalla sua prigionia. L'eroe viene ora a conoscenza delle azioni dell'antagonista e prende atto della mancanza, magari perché trova la sua famiglia e/o il suo villaggio devastati o in uno stato di angoscia e disgrazia.
 
-10. **Inizio della reazione**: L'eroe decide di agire in modo da risolvere la mancanza. Per esempio cercando un oggetto magico, salvando chi è stato catturato oppure sconfiggendo il cattivo. Questa è una funzione importante poiché dà una svolta alla narrazione e cementa i presupposti per la futura azione. Può essere in questo momento che, la persona che fino a prima risultava "normale" si configura come "eroe".
+10. **Consenso** (o Inizio della reazione): L'eroe decide/accetta di ribellarsi, agendo in un modo che servirà a porre fine alla mancanza (ad esempio, con il ritrovamento dell'oggetto magico, salvando coloro che sono stati catturati e sconfiggendo l'antagonista). È un momento di definizione per lui, poiché la sua decisione di diventare parte attiva della vicenda detterà il corso delle sue azioni future e farà sì che una persona precedentemente ordinaria finisca per indossare il mantello dell'eroe.
 
 11. **Partenza**: L'eroe lascia la casa/villaggio.
 
 12. **Prima funzione del donatore**: L'eroe viene messo alla prova, attaccato, interrogato, in modo da essere preparato a ricevere l'oggetto magico o incontrare l'aiutante o donatore.
 
-13. **Reazione dell'eroe**: L'eroe reagisce alle azioni del futuro aiutante (supera la prova, libera i prigionieri ecc.); generalmente passa la prova.
+13. **Reazione dell'eroe**: L'eroe reagisce alle azioni del donatore: supera/fallisce la prova, libera i prigionieri, riconcilia i litiganti, compie qualche tipo di servizio, usa i poteri dell'avversario contro di lui; generalmente passa la prova.
 
-14. **Acquisizione oggetto magico**: L'eroe acquisisce l'oggetto magico che può essere prestato, comprato, apparire spontaneamente, ingerito, oppure apparire sotto forma di personaggi che si mettono a disposizione dell'eroe.
+14. **Fornitura dell'oggetto magico**: Dopo aver superato la prova, l'eroe acquisisce l'uso di un agente magico sotto varie forme: trasferimento diretto, localizzazione, preparazione, acquisto, apparizione spontanea, ingestione, oppure apparire sotto forma di personaggi che si mettono a disposizione dell'eroe.
 
-15. **Trasferimento**: L'eroe viaggia, è portato o condotto in vicinanza dell'oggetto della ricerca.
+15. **Trasferimento**: L'eroe viene condotto nel luogo in cui si trova l'oggetto delle sue ricerche o comunque gli viene indicata la strada.
 
-16. **Lotta**: L'eroe e il cattivo hanno uno scontro diretto, fisico o di astuzia.
+16. **Lotta**: L'eroe e l'antagonista combattono direttamente (scontro fisico o di astuzia, competizione).
 
-17. **Marchiatura**: L'eroe è marchiato o per mezzo di una ferita o per mezzo di un oggetto (es. anello).
+17. **Marchiatura**: All'eroe viene impresso un marchio: viene ferito oppure riceve un anello o un altro oggetto caratterizzante.
 
-18. **Vittoria**: Il cattivo è sconfitto (ucciso in combattimento, ucciso nel sonno, sconfitto durante lo scontro, scacciato). Perde comunque la sua funzione negativa.
+18. **Vittoria**: L'antagonista perde: viene ucciso in combattimento, sconfitto in una competizione, ammazzato nel sonno, esiliato, eccetera.
 
-19. **Rimozione**: L'eroe viene liberato dal danneggiamento o la mancanza viene risolta.
+19. **Rimozione**: Viene posto rimedio al danno iniziale e si risolve la mancanza: l'oggetto della ricerca viene consegnato, l'incantesimo spezzato, la persona morta resuscitata, il prigioniero liberato, eccetera.
 
-20. **Ritorno**: L'eroe ritorna nella comunità senza altre indicazioni.
+20. **Ritorno**: L'eroe torna a casa.
 
-21. **Persecuzione**: L'eroe viene perseguitato e il persecutore cerca di ucciderlo, mangiarlo o mettere a repentaglio la vita o le azioni dell'eroe.
+21. **Persecuzione**: L'eroe è perseguitato da qualcuno che attenta alla sua vita o al suo status.
 
-22. **Salvataggio**: L'eroe si salva.
+22. **Salvataggio**: In un modo o nell'altro, l'eroe viene salvato dalla persecuzione: si nasconde o viene nascosto, si trasforma in maniera irriconoscibile, viene salvato da un attentato alla sua vita. Potrebbe anche darsi che degli ostacoli indipendenti dalla sua volontà rallentino il suo nemico.
 
-23. **Arrivo in incognito**: L'eroe arriva al proprio paese sotto mentite spoglie. Non viene riconosciuto.
+23. **Arrivo in incognito**: L'eroe – mascherato ed irriconoscibile – torna a casa o arriva in un altro paese.
 
-24. **Pretese infondate**: Il falso eroe avanza pretese infondate sulla vittoria.
+24. **Pretese infondate**: Un falso eroe cerca di prendere il posto di quello vero.
 
-25. **Prova**: All'eroe viene imposto un compito difficile, una prova da superare (una prova terribile, enigma, prova di forza).
+25. **Prova**: A questo punto, l'eroe viene sottoposto ad una prova di vario genere (un enigma da risolvere, una prova di forza, resistenza od abilità, un processo).
 
-26. **Soluzione**: La prova è conclusa con successo.
+26. **Superamento**: L'eroe supera la prova.
 
-27. **Identificazione**: L'eroe viene riconosciuto.
+27. **Identificazione** (o Riconoscimento): Grazie al marchio (o all'oggetto ricevuto), l'eroe viene riconosciuto.
 
-28. **Smascheramento**: Il falso eroe o il cattivo viene smascherato.
+28. **Smascheramento**: Il falso eroe o l'antagonista viene smascherato pubblicamente.
 
-29. **Trasfigurazione**: All'eroe viene data una nuova apparenza (nuovi vestiti, è reso bello, le ferite vengono guarite).
+29. **Trasfigurazione**: L'eroe assume nuove sembianze (diventa bellissimo, viene guarito, gli vengono forniti nuovi indumenti).
 
-30. **Punizione**: Il cattivo viene punito.
+30. **Punizione**: L'antagonista viene punito.
 
-31. **Matrimonio**: L'eroe si sposa, sale al trono o raggiunge l'obiettivo prefissato.
+31. **Matrimonio o Incoronazione**: L'eroe ottiene la ricompensa finale, che solitamente consiste nella possibilità di sposare la donna che ama o di salire al trono (o entrambe le cose).
 
 ### Note sulle Funzioni
 
-- Le funzioni possono essere invertite (per esempio l'eroe riceve l'oggetto quando è ancora a casa) e l'ordine può cambiare.
-- In linea generale una funzione per andare a buon fine deve essere **ripetuta tre volte** (le prime due volte non si sortisce un esito positivo mentre la terza è quella decisiva: ad esempio l'eroe bussa a due case prima di trovare la casa giusta).
+- Le 31 funzioni sono **inalterabili nell'ordine** nella loro sequenza base.
+- Occasionalmente, alcune funzioni possono essere **omesse o invertite**: ad esempio, l'eroe potrebbe ricevere l'oggetto magico quando si trova ancora a casa, anticipando quindi la funzione del donatore.
+- Le funzioni possono comparire in alcune fiabe non nell'ordine della Sequenza solo nel caso in cui alcune di esse svolgano **funzione introduttiva** alla vicenda: in questa maniera alcune funzioni svolgeranno la funzione di incipit, ma si troveranno comunque nell'ordine della Sequenza. È come dire, cioè, che un "blocco" di funzioni potrebbe trovarsi prima o dopo altri "blocchi" di funzioni, ma le singole funzioni non si cambiano mai di posto.
+- **Regola del Tre**: Più frequentemente, il donatore nega l'oggetto all'eroe per ben due volte prima di consegnarglielo. In linea generale una funzione per andare a buon fine deve essere ripetuta tre volte (le prime due volte non si sortisce un esito positivo mentre la terza è quella decisiva: ad esempio l'eroe bussa a due case prima di trovare la casa giusta).
 
 ## I 7 Personaggi Tipo (Sfere d'Azione)
 
